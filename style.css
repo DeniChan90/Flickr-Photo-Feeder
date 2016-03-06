@@ -1,0 +1,46 @@
+ul {
+    list-style: none ;
+    
+}
+li {
+    float : left ;
+    
+}
+
+button {
+    width : 150px;
+    background : #B5B5B5 ;
+    color : white ;
+}
+.selected {
+    background: #90EE90 ;
+}
+
+.panel {
+    position :relative ;
+    border : 1px solid black ;
+    padding : 10px;
+}
+form {
+    clear : both ;
+    margin : 25px ;
+    position : absolute ;
+    top : 120px;
+}
+.heading{
+    margin-left : 40px ;
+}
+
+#photos{
+    clear : both ;
+    margin-top : 70px ;
+}
+.picLI {
+    display: inline-block ;
+    margin : 10px;
+}
+
+ul li img {
+    width : 200px ;
+    height : 200px ;
+    display: block ;
