@@ -3,4 +3,4 @@ var express = require('express'),
 
 app.use(express.static(__dirname));
 app.listen(8080);
-console.log('server running... \n port : 8080 \n IP : 192.168.0.103')
+console.log('server running... \n port : 8080 ')
